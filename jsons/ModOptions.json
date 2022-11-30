@@ -1,0 +1,5 @@
+{
+isBaseRuleset:false,
+uniques: ["Can trade civilization introductions for [100] Gold"],
+constants:{maxXPfromBarbarians:15000}
+}
