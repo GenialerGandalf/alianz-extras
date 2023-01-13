@@ -1,0 +1,43 @@
+[
+	{
+		"name": "Observer",
+		"unitType": "Scout",
+		"movement": 2,
+		"strength": 10,
+		"cost": 75,
+		"requiredTech": "Horseback Riding",
+		"requiredResource": "Horses",
+		//"upgradesTo": "Knight",
+		//"obsoleteTech": "Chivalry",
+		"uniques": ["May upgrade to [Composite Bowman] through ruins-like effects", "Never appears as a Barbarian unit"],
+		"promotions": ["Ignore terrain cost"],
+		"hurryCostModifier": 20,
+		"attackSound": "horse"
+	}, 
+	{
+		"name": "Scout",
+		"unitType": "Scout",
+		"movement": 2,
+		"strength": 5,
+		"cost": 25,
+		"upgradesTo": "Observer",
+		"obsoleteTech": "Horseback Riding",
+		"uniques": ["May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit"],
+		"promotions": ["Ignore terrain cost"],
+		"attackSound": "nonmetalhit"
+	},
+  {
+		"name": "Chasqui",
+		"unitType": "Scout",
+		"uniqueTo": "Inca",
+		"replaces": "Scout",
+		"movement": 2,
+		"strength": 5,
+		"cost": 25,
+		"upgradesTo": "Observer",
+		"obsoleteTech": "Astronomy",
+		"uniques": ["May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit"],
+		"promotions": ["Ignore terrain cost","[Chasqui] ability"],
+		"attackSound": "nonmetalhit"
+	},
+  ]
