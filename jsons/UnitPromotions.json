@@ -11,4 +11,8 @@
 ],
 		"unitTypes": ["Sword"],
 	},
+	{
+		"name": "[Chasqui] ability",
+		"uniques": ["[+1] Movement"],
+	},
 ]
