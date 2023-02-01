@@ -12,7 +12,15 @@
 "name": "Frosty Foraging",
  "type": "Follower",
  "uniques": ["[+1 Food] from [Tundra] tiles without [Hill] [in this city] <within [2] tiles of a [Coast]>"]
-}
+},
+{
+"name": "Holy Arms",
+ "type": "Follower",
+ "uniques": [
+ "[1] Unit Supply per [3] population [in cities following this religion]"]
+},
+ 
+ 
  
  ///Founder
  
