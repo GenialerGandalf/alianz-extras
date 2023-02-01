@@ -8,7 +8,11 @@
  
  ///Followers
 
- 
+{
+"name": "Frosty Smth",
+ "type": "Follower",
+ "uniques": ["[+1 Food] from [Tundra] tiles without [Hill] [in this city] <within [2] tiles of a [Coast]>"]
+}
  
  ///Founder
  
