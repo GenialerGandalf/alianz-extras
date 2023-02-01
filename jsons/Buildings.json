@@ -1,0 +1,22 @@
+[
+  {
+"name": "Scout Back",
+"Cost": -1,
+		"uniqueTo": "Arabia",
+"uniques": [
+"New [Scout] units start with [115] Experience [in this city]",
+"Will not be displayed in Civilopedia",
+"Gain [140] [Gold]"
+]
+},
+  {
+"name": "Scout Back 2",
+		"uniqueTo": "Rome",
+"Cost": -1,
+"uniques": [
+"New [Scout] units start with [35] Experience [in this city]",
+"Will not be displayed in Civilopedia",
+"Gain [140] [Gold]"
+]
+},
+  ]
