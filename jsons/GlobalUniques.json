@@ -13,6 +13,15 @@
  "Gain [10] Influence with a [Civilian] gift to a City-State",
  "Gain [5] Influence with a [Civilian Water] gift to a City-State",
  "Enables Open Borders agreements"
+  "[+75]% Strength <for [Scout] units> <after discovering [Horseback Riding]>"
+  "[+125]% Strength <for [Scout] units> <after discovering [Astronomy]>"
+  "[+200]% Strength <for [Scout] units> <after discovering [Rifling]>"
+  "[+19]% Strength <for [Scout] units> <after discovering [Horseback Riding]> <when defending> <for units with [Survivalism I]>"
+  "[+31]% Strength <for [Scout] units> <after discovering [Astronomy]> <when defending> <for units with [Survivalism I]>"
+  "[+50]% Strength <for [Scout] units> <after discovering [Rifling]> <when defending> <for units with [Survivalism I]>"
+  "[+19]% Strength <for [Scout] units> <after discovering [Horseback Riding]> <when defending> <for units with [Survivalism II]>"
+  "[+31]% Strength <for [Scout] units> <after discovering [Astronomy]> <when defending> <for units with [Survivalism II]>"
+  "[+50]% Strength <for [Scout] units> <after discovering [Rifling]> <when defending> <for units with [Survivalism II]>"
  // TODO: Implement the uniques below // "[+20]% [Culture] [in all cities] <during a golden age>", // "[+20]% [Production] [in all cities] <during a golden age>", // "[+10]% growth [in all cities] <during We Love The King Day>", // "Nullifies All Yield <while is in resistance>", // "[-25]% [Science] [in pupetted cities]" -- Imo cityFilters should ideally become conditionals anyway // "[-25]% [Culture] [in pupetted cities]" // "[+20]% [Production] [in cities connected via railroad]" // something something unit supply
  ]
 }
