@@ -1,8 +1,7 @@
 [
   {
 "name": "Scout Back",
-		"requiredTech": "Agriculture",
-"Cost": -1,
+"Cost": 1,
 		"uniqueTo": "Arabia",
 "uniques": [
 "New [Scout] units start with [115] Experience [in this city]",
@@ -13,8 +12,7 @@
   {
 "name": "Scout Back 2",
 		"uniqueTo": "Rome",
-		"requiredTech": "Agriculture",
-"Cost": -1,
+"Cost": 1,
 "uniques": [
 "New [Scout] units start with [35] Experience [in this city]",
 "Will not be displayed in Civilopedia",
