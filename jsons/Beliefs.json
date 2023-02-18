@@ -99,14 +99,14 @@
  "uniques": ["[+2 Faith] from every [3] global followers [in foreign cities]"]
  },
 {
- "name": "World Church",
+ "name": "Crusade",
  "type": "Founder",
- "uniques": ["[+1 Culture] from every [5] global followers [in foreign cities]"]
+ "uniques": ["Gain [0]-[50] [Faith] <upon declaring war with a major Civilization>","Gain [20]-[100] [Culture] <upon declaring war with a major Civilization>"]
  },
 {
- "name": "World Church",
+ "name": "Reformation",
  "type": "Founder",
- "uniques": ["[+1 Culture] from every [5] global followers [in foreign cities]"]
+ "uniques": ["Gain a free [Follower] belief <upon enhancing a Religion>","Free Great Person <upon enhancing a Religion>","Free Social Policy <upon enhancing a Religion>","[+100]% Faith cost of generating Great Prophet equivalents"]
  },
  
  
