@@ -12,4 +12,15 @@
                         "[+1 Food] from [Fishing Boat] tiles [in this city]" ],
 		"requiredTech": "Optics"
 	},
+{
+		"name": "Mediterranean Mercenaries",
+"isNationalWonder": true,
+"uniqueTo": "Carthage",
+"cost": 50,
+		"uniques": ["Gain a free [Barracks] [in this city]",
+ "[Gold] cost of purchasing [Land] units [-15]%",
+ "[+1] Unit Supply"
+],
+		"requiredTech": "Bronze Working"
+	},
   ]
